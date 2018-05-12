@@ -1,10 +1,16 @@
 _repo: Railway-Rates-English-and-Foreign_47719
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47719-h/images/cover_image.jpg
 creator:
   author:
     agent_name: Grierson, J.
     gutenberg_agent_id: '44443'
     url: http://www.gutenberg.org/2009/agents/44443
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47719#Railway-Rates-English-and-Foreign
 gutenberg_issued: '2014-12-20'
 gutenberg_type: Text
 identifiers:
